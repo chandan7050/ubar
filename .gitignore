@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 node_modules
 dist
 dist-ssr
 *.local
+=======
+node_modules
+>>>>>>> 91188c6e95d26957fc3fa227a82b39c965bf08b9
 .env
